@@ -1,1 +1,38 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/myStyle.css">
+<title>Assignment Solution for module 2 </title>
+</head>
+
+<body>
+<h1> Our Mune </h1>	
+
+<div class="row">
+<div class="col-lg-4 col-md-6 col-sl-12">
+<section>
+<div id="chicken"> Chicken </div>
+<p>Lorem ipsum dolor sit amet, mea eu elit vocibus adipiscing, ex sit iudico soleat dissentiunt, mea an primis reprehendunt. Reque vidisse habemus no usu, quas atqui et ius</p>
+</section> 
+</div>
+
+<div class="col-lg-4 col-md-6 col-sl-12">
+<section>
+<div id="beef"> beef </div>
+<p>Lorem ipsum dolor sit amet, mea eu elit vocibus adipiscing, ex sit iudico soleat dissentiunt, mea an primis reprehendunt. Reque vidisse habemus no usu, quas atqui et ius</p>
+</section>
+</div>
+
+ <div class="col-lg-4 col-md-12 col-sl-12">
+<section>
+<div id="sushi"> sushi </div>
+<p>Lorem ipsum dolor sit amet, mea eu elit vocibus adipiscing, ex sit iudico soleat dissentiunt, mea an primis reprehendunt. Reque vidisse habemus no usu, quas atqui et ius</p>
+</section>
+</div>
+
+</div>
+</body>
+</html>
